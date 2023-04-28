@@ -2,7 +2,7 @@
     "ip": "sg2.pylexservers.xyz",
     "port": "25800",
     "password": "",
-    "prefix": "",
+    "prefix": ".",
     "login-enabled": "true",
     "register-cmd": "/reg kartikopp kartikopp ",
     "login-cmd": "/login kartikopp",
