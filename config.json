@@ -1,10 +1,10 @@
 {
-    "ip": "katyty.aternos.me",
-    "port": "",
+    "ip": "sg2.pylexservers.xyz",
+    "port": "25800",
     "password": "",
     "prefix": "",
-    "login-enabled": "false",
-    "register-cmd": "/login kartikopp kartikopp",
+    "login-enabled": "true",
+    "register-cmd": "/reg kartikopp kartikopp ",
     "login-cmd": "/login kartikopp",
     "loginmsg": "done",
     "web": "true"
